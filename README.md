@@ -1,2 +1,2 @@
 # example2
-example2 repo
+This is an example repo to check the behaviour in the github
